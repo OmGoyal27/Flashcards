@@ -1,0 +1,6 @@
+The available commands are:
+-   Enter 'View' to view all the available flash cards created.
+-   Enter 'Random' to choose a random flashcard.
+-   Enter 'Add' to add a flashcard.
+-   Enter 'Remove' to remove a flashcard.
+-   Enter 'Exit' to exit.
